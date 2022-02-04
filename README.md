@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add Google Analytics to Hugo?](https://AndrewWu29.github.io/2022/02/how-to-add-google-analytics-to-hugo/)
+- [如何添加Google Analytics到Hugo?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0google-analytics%E5%88%B0hugo/)
 - [Git Basic Commands](https://AndrewWu29.github.io/2022/01/git-basic-commands/)
 - [Git基本指令](https://AndrewWu29.github.io/zh-tw/2022/01/git%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4/)
 - [How to use Hugo to create your Blog?](https://AndrewWu29.github.io/2022/01/how-to-use-hugo-to-create-your-blog/)
-- [如何使用Hugo建立自己的部落格?](https://AndrewWu29.github.io/zh-tw/2022/01/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC/)
-- [為何我要來英國!](https://AndrewWu29.github.io/zh-tw/2022/01/%E7%82%BA%E4%BD%95%E6%88%91%E8%A6%81%E4%BE%86%E8%8B%B1%E5%9C%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
