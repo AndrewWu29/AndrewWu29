@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add an RSS feed to your Hugo PaperMod theme?](https://AndrewWu29.github.io/2022/02/how-to-add-an-rss-feed-to-your-hugo-papermod-theme/)
+- [How to add an RSS feed to your Hugo PaperMod theme?](https://AndrewWu29.github.io/zh-tw/2022/02/how-to-add-an-rss-feed-to-your-hugo-papermod-theme/)
 - [How to integrate Disqus into your Hugo site?](https://AndrewWu29.github.io/2022/02/how-to-integrate-disqus-into-your-hugo-site/)
 - [如何整合Disqus到您的Hugo網站?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88disqus%E5%88%B0%E6%82%A8%E7%9A%84hugo%E7%B6%B2%E7%AB%99/)
 - [How to add Google Analytics to Hugo?](https://AndrewWu29.github.io/2022/02/how-to-add-google-analytics-to-hugo/)
-- [如何添加Google Analytics到Hugo?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0google-analytics%E5%88%B0hugo/)
-- [Git Basic Commands](https://AndrewWu29.github.io/2022/01/git-basic-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
