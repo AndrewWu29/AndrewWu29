@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Tech EDC Essentials Minimum 2022?](https://AndrewWu29.github.io/2022/02/my-tech-edc-essentials-minimum-2022/)
+- [我的最少日常攜帶科技產品2022?](https://AndrewWu29.github.io/zh-tw/2022/02/%E6%88%91%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%A5%E5%B8%B8%E6%94%9C%E5%B8%B6%E7%A7%91%E6%8A%80%E7%94%A2%E5%93%812022/)
 - [How to add an RSS feed to your Hugo PaperMod theme?](https://AndrewWu29.github.io/2022/02/how-to-add-an-rss-feed-to-your-hugo-papermod-theme/)
-- [How to add an RSS feed to your Hugo PaperMod theme?](https://AndrewWu29.github.io/zh-tw/2022/02/how-to-add-an-rss-feed-to-your-hugo-papermod-theme/)
+- [如何添加RSS feed到您的Hugo PaperMod主題?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0rss-feed%E5%88%B0%E6%82%A8%E7%9A%84hugo-papermod%E4%B8%BB%E9%A1%8C/)
 - [How to integrate Disqus into your Hugo site?](https://AndrewWu29.github.io/2022/02/how-to-integrate-disqus-into-your-hugo-site/)
-- [如何整合Disqus到您的Hugo網站?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88disqus%E5%88%B0%E6%82%A8%E7%9A%84hugo%E7%B6%B2%E7%AB%99/)
-- [How to add Google Analytics to Hugo?](https://AndrewWu29.github.io/2022/02/how-to-add-google-analytics-to-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
