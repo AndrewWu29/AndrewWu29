@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[UK York] York Minster](https://AndrewWu29.github.io/2022/02/uk-york-york-minster/)
+- [【英國 約克】 約克大教堂 歐洲北部第二大的哥德式教堂](https://AndrewWu29.github.io/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E7%B4%84%E5%85%8B-%E7%B4%84%E5%85%8B%E5%A4%A7%E6%95%99%E5%A0%82-%E6%AD%90%E6%B4%B2%E5%8C%97%E9%83%A8%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%9A%84%E5%93%A5%E5%BE%B7%E5%BC%8F%E6%95%99%E5%A0%82/)
 - [My Tech EDC Essentials Minimum 2022?](https://AndrewWu29.github.io/2022/02/my-tech-edc-essentials-minimum-2022/)
 - [我的最少日常攜帶科技產品2022?](https://AndrewWu29.github.io/zh-tw/2022/02/%E6%88%91%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%A5%E5%B8%B8%E6%94%9C%E5%B8%B6%E7%A7%91%E6%8A%80%E7%94%A2%E5%93%812022/)
 - [How to add an RSS feed to your Hugo PaperMod theme?](https://AndrewWu29.github.io/2022/02/how-to-add-an-rss-feed-to-your-hugo-papermod-theme/)
-- [如何添加RSS feed到您的Hugo PaperMod主題?](https://AndrewWu29.github.io/zh-tw/2022/02/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0rss-feed%E5%88%B0%E6%82%A8%E7%9A%84hugo-papermod%E4%B8%BB%E9%A1%8C/)
-- [How to integrate Disqus into your Hugo site?](https://AndrewWu29.github.io/2022/02/how-to-integrate-disqus-into-your-hugo-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
