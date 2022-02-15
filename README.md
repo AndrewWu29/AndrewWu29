@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[UK York] York Minster](https://AndrewWu29.github.io/2022/02/uk-york-york-minster/)
+- [Markdown Basic Systax](https://AndrewWu29.github.io/2022/02/markdown-basic-systax/)
 - [Markdown 筆記 基本語法使用](https://AndrewWu29.github.io/zh-tw/2022/02/markdown-%E7%AD%86%E8%A8%98-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95%E4%BD%BF%E7%94%A8/)
+- [[UK York] York Minster](https://AndrewWu29.github.io/2022/02/uk-york-york-minster/)
 - [【英國 約克】 約克大教堂 歐洲北部第二大的哥德式教堂](https://AndrewWu29.github.io/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E7%B4%84%E5%85%8B-%E7%B4%84%E5%85%8B%E5%A4%A7%E6%95%99%E5%A0%82-%E6%AD%90%E6%B4%B2%E5%8C%97%E9%83%A8%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%9A%84%E5%93%A5%E5%BE%B7%E5%BC%8F%E6%95%99%E5%A0%82/)
 - [My Tech EDC Essentials Minimum 2022?](https://AndrewWu29.github.io/2022/02/my-tech-edc-essentials-minimum-2022/)
-- [我的最少日常攜帶科技產品2022?](https://AndrewWu29.github.io/zh-tw/2022/02/%E6%88%91%E7%9A%84%E6%9C%80%E5%B0%91%E6%97%A5%E5%B8%B8%E6%94%9C%E5%B8%B6%E7%A7%91%E6%8A%80%E7%94%A2%E5%93%812022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
