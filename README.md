@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robot Framework And Appium Install Environment On Windows](https://andrewu.page/2022/04/robot-framework-and-appium-install-environment-on-windows/)
 - [How to escape Hugo shortcode](https://andrewu.page/2022/04/how-to-escape-hugo-shortcode/)
 - [Insert raw HTML in Hugo with a simple shortcode](https://andrewu.page/2022/04/insert-raw-html-in-hugo-with-a-simple-shortcode/)
 - [我的工作環境配置](https://andrewu.page/zh-tw/2022/03/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/)
 - [Vim note](https://andrewu.page/2022/03/vim-note/)
-- [【英國 火車】 LNER頭等艙、LNER貴賓室，倫敦到約克，經驗分享](https://andrewu.page/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E7%81%AB%E8%BB%8A-lner%E9%A0%AD%E7%AD%89%E8%89%99lner%E8%B2%B4%E8%B3%93%E5%AE%A4%E5%80%AB%E6%95%A6%E5%88%B0%E7%B4%84%E5%85%8B%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
