@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix broken GUI of UIAutomatorViewer on Mac OS?](https://andrewu.page/2022/04/how-to-fix-broken-gui-of-uiautomatorviewer-on-mac-os/)
 - [Robot Framework And Appium Install Environment On Windows](https://andrewu.page/2022/04/robot-framework-and-appium-install-environment-on-windows/)
 - [How to escape Hugo shortcode](https://andrewu.page/2022/04/how-to-escape-hugo-shortcode/)
 - [Insert raw HTML in Hugo with a simple shortcode](https://andrewu.page/2022/04/insert-raw-html-in-hugo-with-a-simple-shortcode/)
 - [我的工作環境配置](https://andrewu.page/zh-tw/2022/03/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/)
-- [Vim note](https://andrewu.page/2022/03/vim-note/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
