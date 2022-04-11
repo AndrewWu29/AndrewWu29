@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup Google domains for GitHub Pages](https://andrewu.page/2022/04/how-to-setup-google-domains-for-github-pages/)
 - [How to fix broken GUI of UIAutomatorViewer on Mac OS?](https://andrewu.page/2022/04/how-to-fix-broken-gui-of-uiautomatorviewer-on-mac-os/)
 - [Install Robot Framework and Appium on Mac OS?](https://andrewu.page/2022/04/install-robot-framework-and-appium-on-mac-os/)
 - [Robot Framework And Appium Install Environment On Windows](https://andrewu.page/2022/04/robot-framework-and-appium-install-environment-on-windows/)
 - [How to escape Hugo shortcode](https://andrewu.page/2022/04/how-to-escape-hugo-shortcode/)
-- [Insert raw HTML in Hugo with a simple shortcode](https://andrewu.page/2022/04/insert-raw-html-in-hugo-with-a-simple-shortcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
