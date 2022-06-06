@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Jira on ARM Based Docker with Docker Compose](https://andrewu.page/2022/04/how-to-install-jira-on-arm-based-docker-with-docker-compose/)
 - [How to setup Cloudflare with Google domains](https://andrewu.page/2022/04/how-to-setup-cloudflare-with-google-domains/)
 - [How to setup Google domains for GitHub Pages](https://andrewu.page/2022/04/how-to-setup-google-domains-for-github-pages/)
 - [How to fix broken GUI of UIAutomatorViewer on Mac OS?](https://andrewu.page/2022/04/how-to-fix-broken-gui-of-uiautomatorviewer-on-mac-os/)
 - [Install Robot Framework and Appium on Mac OS?](https://andrewu.page/2022/04/install-robot-framework-and-appium-on-mac-os/)
-- [Robot Framework And Appium Install Environment On Windows](https://andrewu.page/2022/04/robot-framework-and-appium-install-environment-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
