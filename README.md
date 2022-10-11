@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git clone a repository with submodules](https://andrewu.page/2022/06/git-clone-a-repository-with-submodules/)
-- [How to Install Jira on ARM Based Docker with Docker Compose](https://andrewu.page/2022/04/how-to-install-jira-on-arm-based-docker-with-docker-compose/)
-- [How to setup Cloudflare with Google domains](https://andrewu.page/2022/04/how-to-setup-cloudflare-with-google-domains/)
-- [How to setup Google domains for GitHub Pages](https://andrewu.page/2022/04/how-to-setup-google-domains-for-github-pages/)
-- [How to fix broken GUI of UIAutomatorViewer on Mac OS?](https://andrewu.page/2022/04/how-to-fix-broken-gui-of-uiautomatorviewer-on-mac-os/)
+- [我的工作環境配置](https://andrewu.page/zh-tw/2022/03/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/)
+- [【英國 火車】 LNER頭等艙、LNER貴賓室，倫敦到約克，經驗分享](https://andrewu.page/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E7%81%AB%E8%BB%8A-lner%E9%A0%AD%E7%AD%89%E8%89%99lner%E8%B2%B4%E8%B3%93%E5%AE%A4%E5%80%AB%E6%95%A6%E5%88%B0%E7%B4%84%E5%85%8B%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB/)
+- [【英國 倫敦】 國王十字車站|哈利波特9又4分之3月台](https://andrewu.page/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E5%80%AB%E6%95%A6-%E5%9C%8B%E7%8E%8B%E5%8D%81%E5%AD%97%E8%BB%8A%E7%AB%99%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B99%E5%8F%884%E5%88%86%E4%B9%8B3%E6%9C%88%E5%8F%B0/)
+- [Markdown 筆記 基本語法使用](https://andrewu.page/zh-tw/2022/02/markdown-%E7%AD%86%E8%A8%98-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95%E4%BD%BF%E7%94%A8/)
+- [【英國 約克】 約克大教堂 歐洲北部第二大的哥德式教堂](https://andrewu.page/zh-tw/2022/02/%E8%8B%B1%E5%9C%8B-%E7%B4%84%E5%85%8B-%E7%B4%84%E5%85%8B%E5%A4%A7%E6%95%99%E5%A0%82-%E6%AD%90%E6%B4%B2%E5%8C%97%E9%83%A8%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%9A%84%E5%93%A5%E5%BE%B7%E5%BC%8F%E6%95%99%E5%A0%82/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
