@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Google Play on Android emulator in Androi Studio?](https://andrewu.page/2023/03/how-to-install-google-play-on-android-emulator-in-androi-studio/)
 - [為啥我許久未更新？](https://andrewu.page/zh-tw/2023/02/%E7%82%BA%E5%95%A5%E6%88%91%E8%A8%B1%E4%B9%85%E6%9C%AA%E6%9B%B4%E6%96%B0/)
 - [Git clone a repository with submodules](https://andrewu.page/2022/06/git-clone-a-repository-with-submodules/)
 - [How to Install Jira on ARM Based Docker with Docker Compose](https://andrewu.page/2022/04/how-to-install-jira-on-arm-based-docker-with-docker-compose/)
 - [How to setup Cloudflare with Google domains](https://andrewu.page/2022/04/how-to-setup-cloudflare-with-google-domains/)
-- [How to setup Google domains for GitHub Pages](https://andrewu.page/2022/04/how-to-setup-google-domains-for-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
