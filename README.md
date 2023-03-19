@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [台灣人如何在英國倫敦申請塞爾維亞簽證？](https://andrewu.page/zh-tw/2023/03/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E7%94%B3%E8%AB%8B%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B0%BD%E8%AD%89/)
 - [How to install Google Play on Android emulator in Androi Studio?](https://andrewu.page/2023/03/how-to-install-google-play-on-android-emulator-in-androi-studio/)
 - [為啥我許久未更新？](https://andrewu.page/zh-tw/2023/02/%E7%82%BA%E5%95%A5%E6%88%91%E8%A8%B1%E4%B9%85%E6%9C%AA%E6%9B%B4%E6%96%B0/)
 - [Git clone a repository with submodules](https://andrewu.page/2022/06/git-clone-a-repository-with-submodules/)
 - [How to Install Jira on ARM Based Docker with Docker Compose](https://andrewu.page/2022/04/how-to-install-jira-on-arm-based-docker-with-docker-compose/)
-- [How to setup Cloudflare with Google domains](https://andrewu.page/2022/04/how-to-setup-cloudflare-with-google-domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
