@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [英國電信推薦Voxi，限時推薦活動到三月底](https://andrewu.page/zh-tw/2023/03/%E8%8B%B1%E5%9C%8B%E9%9B%BB%E4%BF%A1%E6%8E%A8%E8%96%A6voxi%E9%99%90%E6%99%82%E6%8E%A8%E8%96%A6%E6%B4%BB%E5%8B%95%E5%88%B0%E4%B8%89%E6%9C%88%E5%BA%95/)
-- [（同性配偶）英國結婚到配偶一簽費用與時程！](https://andrewu.page/zh-tw/2023/03/%E5%90%8C%E6%80%A7%E9%85%8D%E5%81%B6%E8%8B%B1%E5%9C%8B%E7%B5%90%E5%A9%9A%E5%88%B0%E9%85%8D%E5%81%B6%E4%B8%80%E7%B0%BD%E8%B2%BB%E7%94%A8%E8%88%87%E6%99%82%E7%A8%8B/)
-- [台灣人如何在英國倫敦申請塞爾維亞簽證？](https://andrewu.page/zh-tw/2023/03/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E7%94%B3%E8%AB%8B%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B0%BD%E8%AD%89/)
-- [為啥我許久未更新？](https://andrewu.page/zh-tw/2023/02/%E7%82%BA%E5%95%A5%E6%88%91%E8%A8%B1%E4%B9%85%E6%9C%AA%E6%9B%B4%E6%96%B0/)
-- [我的工作環境配置](https://andrewu.page/zh-tw/2022/03/%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%92%B0%E5%A2%83%E9%85%8D%E7%BD%AE/)
+- [How to install Google Play on Android emulator in Androi Studio?](https://andrewu.page/2023/03/how-to-install-google-play-on-android-emulator-in-androi-studio/)
+- [Git clone a repository with submodules](https://andrewu.page/2022/06/git-clone-a-repository-with-submodules/)
+- [How to Install Jira on ARM Based Docker with Docker Compose](https://andrewu.page/2022/04/how-to-install-jira-on-arm-based-docker-with-docker-compose/)
+- [How to setup Cloudflare with Google domains](https://andrewu.page/2022/04/how-to-setup-cloudflare-with-google-domains/)
+- [How to setup Google domains for GitHub Pages](https://andrewu.page/2022/04/how-to-setup-google-domains-for-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://andrewwu29.github.io/)
