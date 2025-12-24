@@ -4,10 +4,9 @@
 
 ## I'm a QAE!!
 
-- 🔭 I just relocated in the UK
+- 🔭 I live in the UK with my hubby
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking a job to improve my software quality assurance skills
-- 🥅 2022 Goals: To find a QAE job in the UK
+- 🥅 2026 Goals: improve my software quality assurance skills
 - ⚡ Fun fact: I love to travel and food
 
 🔗 &nbsp;**Connect with me**
